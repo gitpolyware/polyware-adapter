@@ -1,0 +1,6 @@
+[
+  { "title": "Bitcoin > $120k by Dec 31, 2025?", "symbol": "BTC", "priceYes": 0.42, "priceNo": 0.58, "liquiditySOL": 1800, "volume24hSOL": 560000 },
+  { "title": "ETH flips BTC before 2027?", "symbol": "ETH", "priceYes": 0.31, "priceNo": 0.69, "liquiditySOL": 1200, "volume24hSOL": 210000 },
+  { "title": "Solana > $500 by 2026?", "symbol": "SOL", "priceYes": 0.37, "priceNo": 0.63, "liquiditySOL": 900, "volume24hSOL": 145000 },
+  { "title": "US recession starts before Q2 2026?", "symbol": "MAC", "priceYes": 0.55, "priceNo": 0.45, "liquiditySOL": 1400, "volume24hSOL": 88000 }
+]
