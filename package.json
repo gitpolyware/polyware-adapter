@@ -1,0 +1,21 @@
+{
+  "name": "polyware-adapter",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "node dist/index.js",
+    "build": "tsc -p ."
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3",
+    "express": "^4.19.2",
+    "zod": "^3.23.8",
+    "tweetnacl": "^1.0.3",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}
